@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36" version="24.8.3">
   <diagram name="Страница — 1" id="yvjUeDHF9Wf6KYwauPwP">
-    <mxGraphModel dx="1908" dy="1278" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
+    <mxGraphModel dx="1272" dy="852" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -239,10 +239,7 @@
         <mxCell id="nvtQCPNUQL09ssSKa_be-70" value="Руководитель отдела логистики (1)" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="808" y="753" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Hss-ZETlTfgAigMHc5tu-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="nvtQCPNUQL09ssSKa_be-71" target="Hss-ZETlTfgAigMHc5tu-10" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="nvtQCPNUQL09ssSKa_be-71" value="Логист (3)" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="nvtQCPNUQL09ssSKa_be-71" value="Логист (4)" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="808" y="833" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="nvtQCPNUQL09ssSKa_be-77" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="nvtQCPNUQL09ssSKa_be-74" target="nvtQCPNUQL09ssSKa_be-76" edge="1">
@@ -251,7 +248,7 @@
         <mxCell id="nvtQCPNUQL09ssSKa_be-74" value="Начальник службы безопасности (1)" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="948" y="753" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="nvtQCPNUQL09ssSKa_be-76" value="Охранник (3)" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="nvtQCPNUQL09ssSKa_be-76" value="Охранник (5)" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="948" y="833" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="nvtQCPNUQL09ssSKa_be-82" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="nvtQCPNUQL09ssSKa_be-78" target="nvtQCPNUQL09ssSKa_be-79" edge="1">
@@ -292,9 +289,6 @@
         </mxCell>
         <mxCell id="Hss-ZETlTfgAigMHc5tu-9" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="1443" y="503" width="450" height="400" as="geometry" />
-        </mxCell>
-        <mxCell id="Hss-ZETlTfgAigMHc5tu-10" value="Водитель (3)" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="808" y="910" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Hss-ZETlTfgAigMHc5tu-14" value="x5" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="1040" y="550" width="60" height="30" as="geometry" />
@@ -464,8 +458,8 @@
         <mxCell id="Hss-ZETlTfgAigMHc5tu-70" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="660" y="990" width="1360" height="350" as="geometry" />
         </mxCell>
-        <mxCell id="tQXLYXCTituqS6wk66oX-1" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="628" y="550" width="472" height="430" as="geometry" />
+        <mxCell id="UZstSRXE57lEmacsL3O0-1" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="628" y="550" width="472" height="370" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
